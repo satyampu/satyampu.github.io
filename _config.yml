@@ -1,1 +1,10 @@
 theme: jekyll-theme-midnight
+title: Satyam Jay # your name (or website title) here
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Hello My name is Satyam Jay
+  <br><br>
+  People also call me fakerII
+  <br><br>
+  
+theme: jekyll-theme-minimal
